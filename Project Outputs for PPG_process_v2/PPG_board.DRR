@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PPG_board.PcbDoc   11/15/2023  6:06:16 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PPG_board.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             4         PTH        0.14inch (3.60mm)
+T2      16mil (0.399mm)                                           Round             168       PTH        32.84inch (834.18mm)
+T3      24mil (0.599mm)                                           Round             36        PTH        11.55inch (293.41mm)
+T4      35mil (0.899mm)                                           Round             22        PTH        5.06inch (128.65mm)
+T5      39mil (1.001mm)                                           Round             2         PTH        0.17inch (4.40mm)
+T6      47mil (1.199mm)                                           Round             4         PTH        0.64inch (16.27mm)
+T7      118mil (3mm)                                              Round             4         PTH        8.85inch (224.74mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              240
+
+Two holes at same point : 1
+-----------------------
+5185,2379
+
+Total Processing Time (hh:mm:ss) : 00:00:00

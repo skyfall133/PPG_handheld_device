@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\Users\icslab\Downloads\Cuong_workplace\Workplace\1._Paper_1st_-_PPG_sensor\03. Hardware\Proposed HW\good\1. Doing\PPG device\PPG_process_v2\PPG_board.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=8.66
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=5.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
