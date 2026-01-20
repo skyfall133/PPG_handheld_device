@@ -25,8 +25,7 @@ The optical interface module.
 - **EDA Tool**: Altium Designer
 
 ## Visuals
-> **Note**: For a better overview, it is highly recommended to include:
-> - A 3D view screenshot of the PCB:
+> - A 3D view screenshot of the PCB_processing and PPG_sensor:
 <img width="1257" height="746" alt="image" src="https://github.com/user-attachments/assets/e926dd8d-e196-4c8b-9b27-7a7c6c885f2c" />
 <img width="1081" height="744" alt="image" src="https://github.com/user-attachments/assets/10f4f6cb-022e-4b3e-893c-e012070cb70d" />
 
