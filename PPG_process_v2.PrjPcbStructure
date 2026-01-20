@@ -1,4 +1,0 @@
-Record=TopLevelDocument|FileName=Cover.SchDoc|SheetNumber= 
-Record=SheetSymbol|SourceDocument=Cover.SchDoc|Designator=DRIVER LED & AFE|SchDesignator=DRIVER LED & AFE|FileName=DRIVER_LED&AFE.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=DRIVER_LED&AFE.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Cover.SchDoc|Designator=ESP32&MCU|SchDesignator=ESP32&MCU|FileName=ESP32.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=ESP32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=SheetSymbol|SourceDocument=Cover.SchDoc|Designator=POWER SUPPY & COM|SchDesignator=POWER SUPPY & COM|FileName=POWER_SUPPLY.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=POWER_SUPPLY.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

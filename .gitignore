@@ -1,0 +1,47 @@
+# Altium Designer
+*.PcbLib.htm
+*.SchLib.htm
+*.SchDoc.htm
+*.PcbDoc.htm
+*.Htm
+*.Txt
+*.LOG
+*.log
+*.drc
+*.drrc
+*.out
+*.net
+*.sdf
+*.ldr
+*.csv
+*.rep
+*.uhl
+*.tcl
+*.bcl
+*.scl
+*.nsx
+*.apr
+*.apr_lib
+*.EXTREP
+*.REP
+*.DRR
+*.LDP
+*.DRC
+*.SchDocPreview
+*.PcbDocPreview
+*.HarnessPreview
+*.PrjPcbStructure
+*.zip
+*.Job
+*.lck
+
+# Directories
+History/
+__Previews/
+Project\ Logs\ for\ */
+Project\ Outputs\ for\ */
+**/History/
+**/__Previews/
+**/Project\ Logs\ for\ */
+**/Project\ Outputs\ for\ */
+
