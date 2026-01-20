@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=V_LED_B Pin=P5-3
+Added Pin To Net: NetName=V_LED_B Pin=P6-3
+Change Net Name : Old Net Name=V_LED_B New Net Name=VDD_LED_B
+Added Rule: Name=Schematic Differential Pairs Routing_2
+Added Rule: Name=Schematic Differential Pairs Routing_3

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VDD_LED_B Pin=P6-3
+Removed Pin From Net: NetName=VDD_LED_B Pin=P_R5-1
+Removed Pin From Net: NetName=VDD_LED_B Pin=P_R6-2
+Added Pin To Net: NetName=VDD_LED_B_0 Pin=P6-3
+Added Pin To Net: NetName=VDD_LED_B_0 Pin=P_R5-1
+Added Pin To Net: NetName=VDD_LED_B_0 Pin=P_R6-2
+Added Net: Name=VDD_LED_B_0
+Added Rule: Name=Schematic Differential Pairs Routing_4
+Added Rule: Name=Schematic Differential Pairs Routing_5

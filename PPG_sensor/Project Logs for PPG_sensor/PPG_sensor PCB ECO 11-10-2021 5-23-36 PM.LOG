@@ -1,0 +1,50 @@
+Added Component: Designator=G_LED3(LED_PPG_DISTANCE_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED4(LED_PPG_DISTANCE_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED3(LED_PPG_DISTANCE_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED4(LED_PPG_DISTANCE_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED3(LED_PPG_DISTANCE_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED4(LED_PPG_DISTANCE_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED3(LED_PPG_DISTANCE_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED4(LED_PPG_DISTANCE_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetG_LED3_1 Pin=G_LED3-1
+Added Pin To Net: NetName=B_TX_LED_1_P Pin=G_LED3-2
+Added Pin To Net: NetName=NetG_LED3_1 Pin=G_LED4-1
+Added Pin To Net: NetName=B_TX_LED_1_P Pin=G_LED4-2
+Added Pin To Net: NetName=NetH_R5_1 Pin=IR_LED3-1
+Added Pin To Net: NetName=B_TX_LED_0_P Pin=IR_LED3-2
+Added Pin To Net: NetName=NetH_R5_1 Pin=IR_LED4-1
+Added Pin To Net: NetName=B_TX_LED_0_P Pin=IR_LED4-2
+Added Pin To Net: NetName=NetH_R6_2 Pin=R_LED3-1
+Added Pin To Net: NetName=B_TX_LED_0_N Pin=R_LED3-2
+Added Pin To Net: NetName=NetH_R6_2 Pin=R_LED4-1
+Added Pin To Net: NetName=B_TX_LED_0_N Pin=R_LED4-2
+Added Pin To Net: NetName=NetH_R7_1 Pin=Y_LED3-1
+Added Pin To Net: NetName=B_TX_LED_1_N Pin=Y_LED3-2
+Added Pin To Net: NetName=NetH_R7_1 Pin=Y_LED4-1
+Added Pin To Net: NetName=B_TX_LED_1_N Pin=Y_LED4-2
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED4 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED4 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED4 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED4 LED
+Added Rule: Name=Schematic Differential Pairs Routing_4
+Added Rule: Name=Schematic Differential Pairs Routing_5

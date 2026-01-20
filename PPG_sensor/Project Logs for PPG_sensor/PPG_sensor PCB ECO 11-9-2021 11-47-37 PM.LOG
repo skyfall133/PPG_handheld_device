@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=A_TX_LED_0_N Pin=IR_LED1-2
+Removed Pin From Net: NetName=A_TX_LED_0_N Pin=R2-1
+Removed Pin From Net: NetName=A_TX_LED_0_P Pin=R3-2
+Removed Pin From Net: NetName=A_TX_LED_0_P Pin=R_LED2-2
+Added Pin To Net: NetName=A_TX_LED_0_P Pin=IR_LED1-2
+Added Pin To Net: NetName=A_TX_LED_0_P Pin=R2-1
+Added Pin To Net: NetName=A_TX_LED_0_N Pin=R3-2
+Added Pin To Net: NetName=A_TX_LED_0_N Pin=R_LED2-2

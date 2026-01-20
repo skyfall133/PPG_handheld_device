@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=D_PD_DET_P Pin=D14-1
+Removed Pin From Net: NetName=D_PD_DET_N Pin=D14-2
+Removed Pin From Net: NetName=D_PD_DET_P Pin=D16-1
+Removed Pin From Net: NetName=D_PD_DET_N Pin=D16-2
+Removed Pin From Net: NetName=D_PD_DET_P Pin=D18-1
+Removed Pin From Net: NetName=D_PD_DET_N Pin=D18-2
+Removed Member From Class: ClassName=PPG_sensor Member=D14
+Removed Member From Class: ClassName=PPG_sensor Member=D18
+Added Component: Designator=D16(LED_APS5130PD7C-P22_KNB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "754-2215-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "754-2215-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "754-2215-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "APS5130PD7C-P22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=D_PD_DET_N Pin=D16-1
+Added Pin To Net: NetName=D_PD_DET_N Pin=D16-2
+Added Pin To Net: NetName=D_PD_DET_N Pin=D16-3
+Added Pin To Net: NetName=D_PD_DET_P Pin=D16-4

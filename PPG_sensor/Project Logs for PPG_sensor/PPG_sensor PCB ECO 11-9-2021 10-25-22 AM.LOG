@@ -1,0 +1,50 @@
+Added Component: Designator=D1(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D9(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D10(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D11(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=A_PD_DET_P Pin=D2-1
+Added Pin To Net: NetName=A_PD_DET_N Pin=D2-2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD3_4 Pin=D5-1
+Added Pin To Net: NetName=NetD3_1 Pin=D5-2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_1 Pin=D7-1
+Added Pin To Net: NetName=NetD6_2 Pin=D7-2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_1 Pin=D9-1
+Added Pin To Net: NetName=NetD8_2 Pin=D9-2
+Added Pin To Net: NetName=NetD8_1 Pin=D10-1
+Added Pin To Net: NetName=NetD8_2 Pin=D10-2
+Added Pin To Net: NetName=NetD8_1 Pin=D11-1
+Added Pin To Net: NetName=NetD8_2 Pin=D11-2
+Added Member To Class: ClassName=PPG_sensor Member=Component D1 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D2 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D4 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D5 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D6 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D7 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D8 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D9 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D10 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D11 SFH_2704

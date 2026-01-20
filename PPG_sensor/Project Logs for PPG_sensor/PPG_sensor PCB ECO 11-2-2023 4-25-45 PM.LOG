@@ -1,0 +1,6 @@
+Change Component Description : Designator=U1 Old Description=Salida de voltaje del sensor de oxA？metro / frecuencia cardA？aca New Description=Salida de voltaje del sensor de oxA？metro / frecuencia cardA？aca
+Added Component: Designator=G_LED?(RES-SMD-0603)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-10
+Add Pin To Net: Unknown Pin: Pin J1-11
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED? LED

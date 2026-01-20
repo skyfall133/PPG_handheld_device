@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=A_TX_LED_N0 New Net Name=A_TX_LED_0_N
+Change Net Name : Old Net Name=A_TX_LED_N1 New Net Name=A_TX_LED_1_N
+Change Net Name : Old Net Name=A_TX_LED_P0 New Net Name=A_TX_LED_0_P
+Change Net Name : Old Net Name=A_TX_LED_P1 New Net Name=A_TX_LED_1_P
+Added Differential Pair: Name=A_TX_LED_0
+Added Differential Pair: Name=A_TX_LED_1
+Added Differential Pair: Name=TX_LED_A_0

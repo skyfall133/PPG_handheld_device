@@ -1,0 +1,233 @@
+Added Component: Designator=D2(XDCR_SFH2200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(XDCR_SFH2200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D4(XDCR_SFH2200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(XDCR_SFH2200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(XDCR_SFH2200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(XDCR_SFH2200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8(XDCR_SFH2200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D9(XDCR_SFH2200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D10(XDCR_SFH2200)
+Add component. Clean all parameters for all variants
+Added Component: Designator=G_LED2(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED3(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED4(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED5(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED6(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED7(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED8(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED9(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED10(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED11(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED12(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED1(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED2(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED4(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED5(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED6(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED7(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED8(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED9(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED10(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED11(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED12(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=J?(ZF1-10-01-XX-WT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATED BY"; Value = "December 22, 2015 - Wendy Xin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MODIFIED"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "ZF1-10-01-XX-WT"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED2(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED3(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED4(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED5(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED6(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED7(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED8(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED9(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED10(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED11(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED12(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED1(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED2(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED4(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED5(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED6(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED7(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED8(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED9(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED10(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED11(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED12(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetG_LED4_2 Pin=G_LED4-2
+Added Pin To Net: NetName=NetG_LED5_2 Pin=G_LED5-2
+Added Pin To Net: NetName=NetG_LED4_2 Pin=G_LED6-1
+Added Pin To Net: NetName=NetG_LED5_2 Pin=G_LED7-1
+Added Pin To Net: NetName=NetIR_LED1_2 Pin=IR_LED1-2
+Added Pin To Net: NetName=NetIR_LED2_2 Pin=IR_LED2-2
+Added Pin To Net: NetName=NetIR_LED1_2 Pin=IR_LED6-1
+Added Pin To Net: NetName=NetIR_LED2_2 Pin=IR_LED7-1
+Added Pin To Net: NetName=NetR_LED4_2 Pin=R_LED4-2
+Added Pin To Net: NetName=NetR_LED5_2 Pin=R_LED5-2
+Added Pin To Net: NetName=NetR_LED4_2 Pin=R_LED6-1
+Added Pin To Net: NetName=NetR_LED5_2 Pin=R_LED7-1
+Added Pin To Net: NetName=NetY_LED1_2 Pin=Y_LED1-2
+Added Pin To Net: NetName=NetY_LED2_2 Pin=Y_LED2-2
+Added Pin To Net: NetName=NetY_LED1_2 Pin=Y_LED6-1
+Added Pin To Net: NetName=NetY_LED2_2 Pin=Y_LED7-1
+Added Member To Class: ClassName=PPG_sensor Member=Component D1 Photo Diode
+Added Member To Class: ClassName=PPG_sensor Member=Component D2 Photo Diode
+Added Member To Class: ClassName=PPG_sensor Member=Component D3 Photo Diode
+Added Member To Class: ClassName=PPG_sensor Member=Component D4 Photo Diode
+Added Member To Class: ClassName=PPG_sensor Member=Component D5 Photo Diode
+Added Member To Class: ClassName=PPG_sensor Member=Component D6 Photo Diode
+Added Member To Class: ClassName=PPG_sensor Member=Component D7 Photo Diode
+Added Member To Class: ClassName=PPG_sensor Member=Component D8 Photo Diode
+Added Member To Class: ClassName=PPG_sensor Member=Component D9 Photo Diode
+Added Member To Class: ClassName=PPG_sensor Member=Component D10 Photo Diode
+Added Member To Class: ClassName=PPG_sensor Member=Component D11 Photo Diode
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED1 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED2 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED4 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED5 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED6 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED7 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED8 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED9 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED10 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED11 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED12 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED1 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED2 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED4 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED5 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED6 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED7 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED8 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED9 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED10 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED11 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED12 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component J? ZF1-10-01-XX-WT
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED1 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED2 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED4 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED5 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED6 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED7 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED8 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED9 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED10 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED11 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED12 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED1 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED2 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED4 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED5 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED6 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED7 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED8 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED9 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED10 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED11 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED12 LED
+Added Room: Name=PPG_sensor

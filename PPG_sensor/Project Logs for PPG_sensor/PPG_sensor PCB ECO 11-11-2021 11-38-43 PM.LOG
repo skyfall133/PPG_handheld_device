@@ -1,0 +1,25 @@
+Added Component: Designator=G_LED3(LED_PPG_DISTANCE_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED3(LED_PPG_DISTANCE_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED3(LED_PPG_DISTANCE_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED3(LED_PPG_DISTANCE_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetG_LED3_1 Pin=G_LED3-1
+Added Pin To Net: NetName=D_TX_LED_1_P Pin=G_LED3-2
+Added Pin To Net: NetName=NetH_R10_1 Pin=IR_LED3-1
+Added Pin To Net: NetName=D_TX_LED_0_P Pin=IR_LED3-2
+Added Pin To Net: NetName=NetH_R9_2 Pin=R_LED3-1
+Added Pin To Net: NetName=D_TX_LED_0_N Pin=R_LED3-2
+Added Pin To Net: NetName=NetH_R12_1 Pin=Y_LED3-1
+Added Pin To Net: NetName=D_TX_LED_1_N Pin=Y_LED3-2
+Added Member To Class: ClassName=PPG_sensor Member=Component D16 APS5130PD7C-P22
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED3 LED

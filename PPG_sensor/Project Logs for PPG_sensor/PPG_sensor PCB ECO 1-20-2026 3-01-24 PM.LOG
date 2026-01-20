@@ -1,0 +1,33 @@
+Change Component Description : Designator=U1 Old Description=Salida de voltaje del sensor de oxA？metro / frecuencia cardA？aca New Description=Salida de voltaje del sensor de oxA？metro / frecuencia cardA？aca
+Add Pin To Net: Unknown Pin: Pin J1-10
+Add Pin To Net: Unknown Pin: Pin J1-11
+Added Member To Class: ClassName=PPG_sensor Member=Component J1 DRB-09P11G1R
+Added Member To Class: ClassName=PPG_sensor Member=Component P3 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P6 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component SW1 SSSS222700
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
+Added Rule: Name=Schematic Supply Nets_9
+Added Rule: Name=Schematic Supply Nets_10
+Added Rule: Name=Schematic Supply Nets_11
+Added Rule: Name=Schematic Supply Nets_12
+Added Rule: Name=Schematic Supply Nets_13
+Added Rule: Name=Schematic Supply Nets_14
+Added Rule: Name=Schematic Supply Nets_15
+Added Rule: Name=Schematic Supply Nets_16
+Added Rule: Name=Schematic Supply Nets_17
+Added Rule: Name=Schematic Supply Nets_18
+Added Rule: Name=Schematic Supply Nets_19
+Added Rule: Name=Schematic Supply Nets_20
+Added Rule: Name=Schematic Supply Nets_21
+Added Rule: Name=Schematic Supply Nets_22
+Added Rule: Name=Schematic Supply Nets_23
+Added Rule: Name=Schematic Supply Nets_24
+Added Rule: Name=Schematic Supply Nets_25

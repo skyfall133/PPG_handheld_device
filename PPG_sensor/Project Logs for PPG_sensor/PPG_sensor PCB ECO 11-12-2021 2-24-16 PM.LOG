@@ -1,0 +1,60 @@
+Added Component: Designator=U4(XDCR_SFH_7072)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "OSRAM Opto"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SFH 7072"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-6 Osram Opto"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SFH%207072/OSRAM%20Opto%20Semiconductors%20Inc./view-part/2464223/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=H_PD_DET_P Pin=U4-1
+Added Pin To Net: NetName=H_PD_DET_N Pin=U4-2
+Added Pin To Net: NetName=H_PD_DET_P Pin=U4-3
+Added Pin To Net: NetName=IR_H Pin=U4-4
+Added Pin To Net: NetName=GREEN_H Pin=U4-5
+Added Pin To Net: NetName=H_TX_LED_1_P Pin=U4-6
+Added Pin To Net: NetName=RED_H Pin=U4-7
+Added Pin To Net: NetName=H_TX_LED_0_N Pin=U4-8
+Added Pin To Net: NetName=H_TX_LED_0_P Pin=U4-9
+Added Pin To Net: NetName=H_PD_DET_N Pin=U4-10
+Added Pin To Net: NetName=NetC_R4_2 Pin=U4-11
+Added Pin To Net: NetName=H_TX_LED_1_P Pin=U4-12
+Added Member To Class: ClassName=PPG_sensor Member=Component D4 Photo Sen
+Added Member To Class: ClassName=PPG_sensor Member=Component D5 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D6 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D7 APS5130PD7C-P22
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED5 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R1 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R2 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R3 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R4 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R6 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R8 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R13 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R14 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R15 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R16 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED5 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component P1 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P2 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P4 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P7 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P8 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P10 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R1 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R2 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R3 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R4 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R5 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R7 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R8 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R9 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R10 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R11 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R12 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R13 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R14 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R16 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED5 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component U4 SFH_7072
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED5 LED

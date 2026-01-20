@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=B_TX_LED_0_N Pin=H_R6-1
+Removed Pin From Net: NetName=B_TX_LED_0_N Pin=IR_LED6-2
+Removed Pin From Net: NetName=B_TX_LED_0_N Pin=IR_LED7-2
+Added Pin To Net: NetName=B_TX_LED_0_P Pin=H_R6-1
+Added Pin To Net: NetName=B_TX_LED_0_P Pin=IR_LED6-2
+Added Pin To Net: NetName=B_TX_LED_0_P Pin=IR_LED7-2
+Added Differential Pair: Name=B_TX_LED_0
+Added Rule: Name=Schematic Differential Pairs Routing_4
+Added Rule: Name=Schematic Differential Pairs Routing_5

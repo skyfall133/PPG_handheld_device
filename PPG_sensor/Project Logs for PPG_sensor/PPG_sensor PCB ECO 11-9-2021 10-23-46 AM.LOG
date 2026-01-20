@@ -1,0 +1,663 @@
+Added Component: Designator=D1(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D2(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D3(LED_APS5130PD7C-P22_KNB)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Copyright"; Value = "Copyright (C) 2021 Ultra Librarian. All rights reserved."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_1"; Value = "754-2215-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_2"; Value = "754-2215-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number_3"; Value = "754-2215-6-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "APS5130PD7C-P22"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "Kingbright"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "DEV"; VariantName = "[No Variations]"
+Added Component: Designator=D4(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D5(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D6(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D7(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D9(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D10(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D11(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=G_LED1(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED2(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED3(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED4(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED5(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED6(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED7(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED8(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED9(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED10(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED11(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=G_LED12(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED1(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED2(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED3(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED4(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED5(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED6(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED7(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED8(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED9(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED10(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED11(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=IR_LED12(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=J1(K202XHT-E9P-NJ_DB9_Male)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through-Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Unreleased"; VariantName = "[No Variations]"
+Added Component: Designator=J2(ZF1-10-01-XX-WT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATED BY"; Value = "December 22, 2015 - Wendy Xin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MODIFIED"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "ZF1-10-01-XX-WT"; VariantName = "[No Variations]"
+Added Component: Designator=J3(ZF1-10-01-XX-WT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATED BY"; Value = "December 22, 2015 - Wendy Xin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MODIFIED"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "ZF1-10-01-XX-WT"; VariantName = "[No Variations]"
+Added Component: Designator=J4(ZF1-10-01-XX-WT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATED BY"; Value = "December 22, 2015 - Wendy Xin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MODIFIED"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "ZF1-10-01-XX-WT"; VariantName = "[No Variations]"
+Added Component: Designator=J5(ZF1-10-01-XX-WT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATED BY"; Value = "December 22, 2015 - Wendy Xin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MODIFIED"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "ZF1-10-01-XX-WT"; VariantName = "[No Variations]"
+Added Component: Designator=J6(ZF1-10-01-XX-WT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "CREATED BY"; Value = "December 22, 2015 - Wendy Xin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANUFACTURER"; Value = "SAMTEC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MODIFIED"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB DECAL"; Value = "ZF1-10-01-XX-WT"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED1(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED2(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED3(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED4(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED5(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED6(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED7(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED8(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED9(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED10(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED11(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=R_LED12(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(DPDT_SSSS222700)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Y_LED1(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED2(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED3(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED4(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED5(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED6(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED7(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED8(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED9(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED10(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED11(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Y_LED12(RESC0402X15N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetG_LED4_2 Pin=G_LED4-2
+Added Pin To Net: NetName=NetG_LED5_2 Pin=G_LED5-2
+Added Pin To Net: NetName=NetIR_LED2_2 Pin=IR_LED2-2
+Added Pin To Net: NetName=NetIR_LED2_2 Pin=J2-1
+Added Pin To Net: NetName=NetG_LED4_2 Pin=J4-4
+Added Pin To Net: NetName=NetG_LED5_2 Pin=J5-4
+Added Pin To Net: NetName=A_PD_DET_N Pin=D2-2
+Added Pin To Net: NetName=A_PD_DET_N Pin=P4-1
+Added Net: Name=A_PD_DET_N
+Added Pin To Net: NetName=A_PD_DET_P Pin=D2-1
+Added Pin To Net: NetName=A_PD_DET_P Pin=P4-2
+Added Net: Name=A_PD_DET_P
+Added Pin To Net: NetName=A_TX_LED_N0 Pin=IR_LED1-2
+Added Pin To Net: NetName=A_TX_LED_N0 Pin=P3-5
+Added Pin To Net: NetName=A_TX_LED_N0 Pin=R2-1
+Added Net: Name=A_TX_LED_N0
+Added Pin To Net: NetName=A_TX_LED_N1 Pin=P3-2
+Added Pin To Net: NetName=A_TX_LED_N1 Pin=R6-1
+Added Pin To Net: NetName=A_TX_LED_N1 Pin=Y_LED2-2
+Added Net: Name=A_TX_LED_N1
+Added Pin To Net: NetName=A_TX_LED_P0 Pin=P3-4
+Added Pin To Net: NetName=A_TX_LED_P0 Pin=R3-2
+Added Pin To Net: NetName=A_TX_LED_P0 Pin=R_LED2-2
+Added Net: Name=A_TX_LED_P0
+Added Pin To Net: NetName=A_TX_LED_P1 Pin=G_LED2-2
+Added Pin To Net: NetName=A_TX_LED_P1 Pin=P3-1
+Added Pin To Net: NetName=A_TX_LED_P1 Pin=R7-2
+Added Net: Name=A_TX_LED_P1
+Added Pin To Net: NetName=DET_N Pin=J1-5
+Added Pin To Net: NetName=DET_N Pin=P2-1
+Added Net: Name=DET_N
+Added Pin To Net: NetName=DET_P Pin=J1-9
+Added Pin To Net: NetName=DET_P Pin=P2-2
+Added Net: Name=DET_P
+Added Pin To Net: NetName=GND_A Pin=P4-4
+Added Pin To Net: NetName=GND_A Pin=P4-5
+Added Net: Name=GND_A
+Added Pin To Net: NetName=GND_SENSOR Pin=P3-3
+Added Net: Name=GND_SENSOR
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=J2-9
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=J2-10
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-2
+Added Pin To Net: NetName=NetD3_1 Pin=D3-3
+Added Pin To Net: NetName=NetD3_1 Pin=D5-2
+Added Pin To Net: NetName=NetD3_1 Pin=J4-10
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=NetD3_4 Pin=D3-4
+Added Pin To Net: NetName=NetD3_4 Pin=D5-1
+Added Pin To Net: NetName=NetD3_4 Pin=J4-9
+Added Net: Name=NetD3_4
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=J3-9
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=J3-10
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD6_1 Pin=D6-1
+Added Pin To Net: NetName=NetD6_1 Pin=D7-1
+Added Pin To Net: NetName=NetD6_1 Pin=J5-9
+Added Net: Name=NetD6_1
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=D7-2
+Added Pin To Net: NetName=NetD6_2 Pin=J5-10
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=D9-1
+Added Pin To Net: NetName=NetD8_1 Pin=D10-1
+Added Pin To Net: NetName=NetD8_1 Pin=D11-1
+Added Pin To Net: NetName=NetD8_1 Pin=J6-9
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=D9-2
+Added Pin To Net: NetName=NetD8_2 Pin=D10-2
+Added Pin To Net: NetName=NetD8_2 Pin=D11-2
+Added Pin To Net: NetName=NetD8_2 Pin=J6-10
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetG_LED1_2 Pin=G_LED1-2
+Added Pin To Net: NetName=NetG_LED1_2 Pin=J2-4
+Added Net: Name=NetG_LED1_2
+Added Pin To Net: NetName=NetG_LED2_1 Pin=G_LED2-1
+Added Pin To Net: NetName=NetG_LED2_1 Pin=R6-2
+Added Pin To Net: NetName=NetG_LED2_1 Pin=R8-1
+Added Net: Name=NetG_LED2_1
+Added Pin To Net: NetName=NetG_LED3_2 Pin=G_LED3-2
+Added Pin To Net: NetName=NetG_LED3_2 Pin=J3-4
+Added Net: Name=NetG_LED3_2
+Added Pin To Net: NetName=NetG_LED8_2 Pin=G_LED8-2
+Added Pin To Net: NetName=NetG_LED8_2 Pin=J6-4
+Added Net: Name=NetG_LED8_2
+Added Pin To Net: NetName=NetIR_LED1_1 Pin=IR_LED1-1
+Added Pin To Net: NetName=NetIR_LED1_1 Pin=R1-1
+Added Pin To Net: NetName=NetIR_LED1_1 Pin=R3-1
+Added Net: Name=NetIR_LED1_1
+Added Pin To Net: NetName=NetIR_LED3_1 Pin=IR_LED3-1
+Added Pin To Net: NetName=NetIR_LED3_1 Pin=IR_LED4-1
+Added Pin To Net: NetName=NetIR_LED3_1 Pin=R9-1
+Added Net: Name=NetIR_LED3_1
+Added Pin To Net: NetName=NetIR_LED3_2 Pin=IR_LED3-2
+Added Pin To Net: NetName=NetIR_LED3_2 Pin=IR_LED4-2
+Added Net: Name=NetIR_LED3_2
+Added Pin To Net: NetName=NetIR_LED5_2 Pin=IR_LED5-2
+Added Pin To Net: NetName=NetIR_LED5_2 Pin=J3-1
+Added Net: Name=NetIR_LED5_2
+Added Pin To Net: NetName=NetIR_LED6_2 Pin=IR_LED6-2
+Added Pin To Net: NetName=NetIR_LED6_2 Pin=J4-1
+Added Net: Name=NetIR_LED6_2
+Added Pin To Net: NetName=NetIR_LED7_2 Pin=IR_LED7-2
+Added Pin To Net: NetName=NetIR_LED7_2 Pin=J5-1
+Added Net: Name=NetIR_LED7_2
+Added Pin To Net: NetName=NetIR_LED8_2 Pin=IR_LED8-2
+Added Pin To Net: NetName=NetIR_LED8_2 Pin=J6-1
+Added Net: Name=NetIR_LED8_2
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=R_LED1-2
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=Y_LED1-2
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R_LED3-2
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=Y_LED3-2
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=R_LED4-2
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_3 Pin=Y_LED4-2
+Added Net: Name=NetJ4_3
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=R_LED5-2
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_3 Pin=Y_LED5-2
+Added Net: Name=NetJ5_3
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=R_LED8-2
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_3 Pin=Y_LED8-2
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R4-1
+Added Pin To Net: NetName=NetR2_2 Pin=R_LED2-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=R7-1
+Added Pin To Net: NetName=NetR5_1 Pin=Y_LED2-1
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR_LED6_2 Pin=R_LED6-2
+Added Pin To Net: NetName=NetR_LED6_2 Pin=R_LED7-2
+Added Net: Name=NetR_LED6_2
+Added Pin To Net: NetName=NetY_LED6_2 Pin=Y_LED6-2
+Added Pin To Net: NetName=NetY_LED6_2 Pin=Y_LED7-2
+Added Net: Name=NetY_LED6_2
+Added Pin To Net: NetName=TX_LED_N0_A Pin=P1-5
+Added Pin To Net: NetName=TX_LED_N0_A Pin=SW1-4
+Added Net: Name=TX_LED_N0_A
+Added Pin To Net: NetName=TX_LED_N0 Pin=J1-3
+Added Pin To Net: NetName=TX_LED_N0 Pin=SW1-5
+Added Net: Name=TX_LED_N0
+Added Pin To Net: NetName=TX_LED_N1 Pin=J1-6
+Added Pin To Net: NetName=TX_LED_N1 Pin=P1-2
+Added Pin To Net: NetName=TX_LED_N1 Pin=SW1-6
+Added Net: Name=TX_LED_N1
+Added Pin To Net: NetName=TX_LED_P0_A Pin=P1-4
+Added Pin To Net: NetName=TX_LED_P0_A Pin=SW1-1
+Added Pin To Net: NetName=TX_LED_P0_A Pin=SW1-1
+Added Pin To Net: NetName=TX_LED_P0_A Pin=SW1-1
+Added Net: Name=TX_LED_P0_A
+Added Pin To Net: NetName=TX_LED_P0 Pin=J1-2
+Added Pin To Net: NetName=TX_LED_P0 Pin=SW1-2
+Added Net: Name=TX_LED_P0
+Added Pin To Net: NetName=TX_LED_P1 Pin=J1-1
+Added Pin To Net: NetName=TX_LED_P1 Pin=J1-1
+Added Pin To Net: NetName=TX_LED_P1 Pin=P1-1
+Added Pin To Net: NetName=TX_LED_P1 Pin=SW1-3
+Added Net: Name=TX_LED_P1
+Added Pin To Net: NetName=V_LED4 Pin=G_LED6-1
+Added Pin To Net: NetName=V_LED4 Pin=G_LED7-1
+Added Pin To Net: NetName=V_LED4 Pin=Y_LED6-1
+Added Pin To Net: NetName=V_LED4 Pin=Y_LED7-1
+Added Net: Name=V_LED4
+Added Pin To Net: NetName=V_LED5 Pin=G_LED9-1
+Added Pin To Net: NetName=V_LED5 Pin=G_LED10-1
+Added Pin To Net: NetName=V_LED5 Pin=G_LED11-1
+Added Pin To Net: NetName=V_LED5 Pin=G_LED12-1
+Added Pin To Net: NetName=V_LED5 Pin=IR_LED9-1
+Added Pin To Net: NetName=V_LED5 Pin=IR_LED10-1
+Added Pin To Net: NetName=V_LED5 Pin=IR_LED11-1
+Added Pin To Net: NetName=V_LED5 Pin=IR_LED12-1
+Added Pin To Net: NetName=V_LED5 Pin=R_LED9-1
+Added Pin To Net: NetName=V_LED5 Pin=R_LED10-1
+Added Pin To Net: NetName=V_LED5 Pin=R_LED11-1
+Added Pin To Net: NetName=V_LED5 Pin=R_LED12-1
+Added Pin To Net: NetName=V_LED5 Pin=Y_LED9-1
+Added Pin To Net: NetName=V_LED5 Pin=Y_LED10-1
+Added Pin To Net: NetName=V_LED5 Pin=Y_LED11-1
+Added Pin To Net: NetName=V_LED5 Pin=Y_LED12-1
+Added Net: Name=V_LED5
+Added Pin To Net: NetName=V_LED_6 Pin=G_LED1-1
+Added Pin To Net: NetName=V_LED_6 Pin=IR_LED2-1
+Added Pin To Net: NetName=V_LED_6 Pin=J2-5
+Added Pin To Net: NetName=V_LED_6 Pin=J2-6
+Added Pin To Net: NetName=V_LED_6 Pin=J2-7
+Added Pin To Net: NetName=V_LED_6 Pin=J2-8
+Added Pin To Net: NetName=V_LED_6 Pin=R_LED1-1
+Added Pin To Net: NetName=V_LED_6 Pin=Y_LED1-1
+Added Net: Name=V_LED_6
+Added Pin To Net: NetName=V_LED_7 Pin=G_LED5-1
+Added Pin To Net: NetName=V_LED_7 Pin=IR_LED7-1
+Added Pin To Net: NetName=V_LED_7 Pin=J5-5
+Added Pin To Net: NetName=V_LED_7 Pin=J5-6
+Added Pin To Net: NetName=V_LED_7 Pin=J5-7
+Added Pin To Net: NetName=V_LED_7 Pin=J5-8
+Added Pin To Net: NetName=V_LED_7 Pin=R_LED5-1
+Added Pin To Net: NetName=V_LED_7 Pin=Y_LED5-1
+Added Net: Name=V_LED_7
+Added Pin To Net: NetName=V_LED_8 Pin=G_LED8-1
+Added Pin To Net: NetName=V_LED_8 Pin=IR_LED8-1
+Added Pin To Net: NetName=V_LED_8 Pin=J6-5
+Added Pin To Net: NetName=V_LED_8 Pin=J6-6
+Added Pin To Net: NetName=V_LED_8 Pin=J6-7
+Added Pin To Net: NetName=V_LED_8 Pin=J6-8
+Added Pin To Net: NetName=V_LED_8 Pin=R_LED8-1
+Added Pin To Net: NetName=V_LED_8 Pin=Y_LED8-1
+Added Net: Name=V_LED_8
+Added Pin To Net: NetName=V_LED_9 Pin=G_LED4-1
+Added Pin To Net: NetName=V_LED_9 Pin=IR_LED6-1
+Added Pin To Net: NetName=V_LED_9 Pin=J4-5
+Added Pin To Net: NetName=V_LED_9 Pin=J4-6
+Added Pin To Net: NetName=V_LED_9 Pin=J4-7
+Added Pin To Net: NetName=V_LED_9 Pin=J4-8
+Added Pin To Net: NetName=V_LED_9 Pin=R_LED4-1
+Added Pin To Net: NetName=V_LED_9 Pin=Y_LED4-1
+Added Net: Name=V_LED_9
+Added Pin To Net: NetName=V_LED_B Pin=R9-2
+Added Net: Name=V_LED_B
+Added Pin To Net: NetName=V_LED Pin=G_LED3-1
+Added Pin To Net: NetName=V_LED Pin=IR_LED5-1
+Added Pin To Net: NetName=V_LED Pin=J3-5
+Added Pin To Net: NetName=V_LED Pin=J3-6
+Added Pin To Net: NetName=V_LED Pin=J3-7
+Added Pin To Net: NetName=V_LED Pin=J3-8
+Added Pin To Net: NetName=V_LED Pin=R_LED3-1
+Added Pin To Net: NetName=V_LED Pin=Y_LED3-1
+Added Net: Name=V_LED
+Added Pin To Net: NetName=VDD_LED_A Pin=P4-3
+Added Pin To Net: NetName=VDD_LED_A Pin=R1-2
+Added Pin To Net: NetName=VDD_LED_A Pin=R4-2
+Added Pin To Net: NetName=VDD_LED_A Pin=R5-2
+Added Pin To Net: NetName=VDD_LED_A Pin=R8-2
+Added Net: Name=VDD_LED_A
+Added Pin To Net: NetName=VDD_LED Pin=J1-8
+Added Pin To Net: NetName=VDD_LED Pin=P2-3
+Added Net: Name=VDD_LED
+Added Member To Class: ClassName=PPG_sensor Member=Component D1 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D2 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D3 APS5130PD7C-P22
+Added Member To Class: ClassName=PPG_sensor Member=Component D4 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D5 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D6 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D7 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D8 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D9 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D10 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D11 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED1 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED2 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED4 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED5 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED6 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED7 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED8 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED9 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED10 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED11 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED12 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED1 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED2 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED4 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED5 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED6 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED7 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED8 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED9 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED10 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED11 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED12 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component J1 DRB-09P11G1R
+Added Member To Class: ClassName=PPG_sensor Member=Component J2 ZF1-10-01-XX-WT
+Added Member To Class: ClassName=PPG_sensor Member=Component J3 ZF1-10-01-XX-WT
+Added Member To Class: ClassName=PPG_sensor Member=Component J4 ZF1-10-01-XX-WT
+Added Member To Class: ClassName=PPG_sensor Member=Component J5 ZF1-10-01-XX-WT
+Added Member To Class: ClassName=PPG_sensor Member=Component J6 ZF1-10-01-XX-WT
+Added Member To Class: ClassName=PPG_sensor Member=Component P1 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P2 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P3 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P4 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component R1 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component R2 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component R3 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component R4 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component R5 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component R6 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component R7 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component R8 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component R9 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED1 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED2 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED4 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED5 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED6 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED7 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED8 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED9 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED10 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED11 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED12 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component SW1 SSSS222700
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED1 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED2 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED4 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED5 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED6 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED7 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED8 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED9 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED10 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED11 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED12 LED
+Added Room: Name=PPG_sensor

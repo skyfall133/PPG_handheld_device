@@ -1,0 +1,8 @@
+Added Component: Designator=IR_LED3(LED_PPG_DISTANCE_2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetH_R5_1 Pin=IR_LED3-1
+Added Pin To Net: NetName=B_TX_LED_0_P Pin=IR_LED3-2
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED3 LED
+Added Rule: Name=Schematic Differential Pairs Routing_2
+Added Rule: Name=Schematic Differential Pairs Routing_3

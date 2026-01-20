@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=IR_LED6 Old Footprint=LED_PPG_DISTANCE New Footprint=LED_PPG_DISTANCE_2
+Change Component Footprint: Designator=IR_LED7 Old Footprint=LED_PPG_DISTANCE New Footprint=LED_PPG_DISTANCE_2
+Added Rule: Name=Schematic Differential Pairs Routing_2
+Added Rule: Name=Schematic Differential Pairs Routing_3

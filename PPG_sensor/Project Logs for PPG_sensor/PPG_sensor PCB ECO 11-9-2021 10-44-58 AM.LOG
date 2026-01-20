@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=G_LED2 Old Footprint=RESC0402X15N New Footprint=LED_PPG_DISTANCE
+Change Component Footprint: Designator=IR_LED1 Old Footprint=RESC0402X15N New Footprint=LED_PPG_DISTANCE
+Change Component Footprint: Designator=R_LED2 Old Footprint=RESC0402X15N New Footprint=LED_PPG_DISTANCE
+Change Component Footprint: Designator=Y_LED2 Old Footprint=RESC0402X15N New Footprint=LED_PPG_DISTANCE

@@ -1,0 +1,10 @@
+Added Component: Designator=D6(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D8(OSRAM_Opto_Semiconductors_SFH_2704_MFG)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=D_PD_DET_P Pin=D6-1
+Added Pin To Net: NetName=D_PD_DET_N Pin=D6-2
+Added Pin To Net: NetName=B_PD_DET_P Pin=D8-1
+Added Pin To Net: NetName=B_PD_DET_N Pin=D8-2
+Added Member To Class: ClassName=PPG_sensor Member=Component D6 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D8 SFH_2704

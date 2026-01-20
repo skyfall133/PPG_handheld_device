@@ -1,0 +1,18 @@
+Added Component: Designator=J1(K202XHT-E9P-NJ_DB9_Male)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector type"; Value = "Header"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through-Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "9"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "Unreleased"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TX_LED_P1 Pin=J1-1
+Added Pin To Net: NetName=TX_LED_P0 Pin=J1-2
+Added Pin To Net: NetName=TX_LED_N0 Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=DET_N Pin=J1-5
+Added Pin To Net: NetName=TX_LED_N1 Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=VDD_LED Pin=J1-8
+Added Pin To Net: NetName=DET_P Pin=J1-9
+Added Member To Class: ClassName=PPG_sensor Member=Component J1 DRB-09P11G1R

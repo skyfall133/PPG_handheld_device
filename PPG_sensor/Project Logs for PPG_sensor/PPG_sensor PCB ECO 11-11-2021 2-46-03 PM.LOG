@@ -1,0 +1,41 @@
+Added Component: Designator=D?(PD_2704)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PPG_sensor Member=Component D4 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D5 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D6 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D11 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D? Photo Sen
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED1 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R1 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R2 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R3 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R4 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R6 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R7 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component H_R8 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED1 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED2 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component IR_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component P1 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P2 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P3 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P5 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P6 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R1 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R2 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R3 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R4 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R6 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R7 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED1 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED2 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED3 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED4 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED1 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED3 LED

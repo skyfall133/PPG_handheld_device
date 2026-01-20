@@ -1,0 +1,24 @@
+Added Component: Designator=P3(HDR 5 POS 1 ROW)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR 5 POS 1 ROW)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A_TX_LED_1_P Pin=P3-1
+Added Pin To Net: NetName=A_TX_LED_1_N Pin=P3-2
+Added Pin To Net: NetName=GND_SENSOR Pin=P3-3
+Added Pin To Net: NetName=A_TX_LED_0_P Pin=P3-4
+Added Pin To Net: NetName=A_TX_LED_0_N Pin=P3-5
+Added Pin To Net: NetName=A_PD_DET_N Pin=P4-1
+Added Pin To Net: NetName=A_PD_DET_P Pin=P4-2
+Added Pin To Net: NetName=VDD_LED_A Pin=P4-3
+Added Pin To Net: NetName=GND_A Pin=P4-4
+Added Pin To Net: NetName=GND_A Pin=P4-5
+Added Member To Class: ClassName=PPG_sensor Member=Component P3 Header 5
+Added Member To Class: ClassName=PPG_sensor Member=Component P4 Header 5
+Added Rule: Name=Schematic Differential Pairs Routing
+Added Rule: Name=Schematic Differential Pairs Routing_1

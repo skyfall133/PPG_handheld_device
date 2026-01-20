@@ -1,0 +1,68 @@
+Removed Pin From Net: NetName=V_LED_B Pin=G_LED6-1
+Removed Pin From Net: NetName=V_LED_B Pin=G_LED7-1
+Removed Pin From Net: NetName=V_LED_B Pin=H_R8-2
+Removed Pin From Net: NetName=V_LED_B Pin=P_R5-1
+Removed Pin From Net: NetName=V_LED_B Pin=P_R6-1
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=D6 NewDesignator=D5
+Change Component Designator: OldDesignator=D7 NewDesignator=D6
+Change Component Designator: OldDesignator=D8 NewDesignator=D7
+Change Component Designator: OldDesignator=D9 NewDesignator=D8
+Change Component Designator: OldDesignator=D10 NewDesignator=D9
+Change Component Designator: OldDesignator=D11 NewDesignator=D10
+Change Component Designator: OldDesignator=D12 NewDesignator=D11
+Change Component Designator: OldDesignator=G_LED2 NewDesignator=G_LED1
+Change Component Designator: OldDesignator=G_LED4 NewDesignator=G_LED2
+Change Component Designator: OldDesignator=G_LED6 NewDesignator=G_LED3
+Change Component Designator: OldDesignator=G_LED7 NewDesignator=G_LED4
+Change Component Designator: OldDesignator=IR_LED4 NewDesignator=IR_LED2
+Change Component Designator: OldDesignator=IR_LED6 NewDesignator=IR_LED3
+Change Component Designator: OldDesignator=IR_LED7 NewDesignator=IR_LED4
+Change Component Designator: OldDesignator=P_R6 NewDesignator=P_R7
+Change Component Designator: OldDesignator=R_LED2 NewDesignator=R_LED1
+Change Component Designator: OldDesignator=R_LED4 NewDesignator=R_LED2
+Change Component Designator: OldDesignator=R_LED6 NewDesignator=R_LED3
+Change Component Designator: OldDesignator=R_LED7 NewDesignator=R_LED4
+Change Component Designator: OldDesignator=Y_LED2 NewDesignator=Y_LED1
+Change Component Designator: OldDesignator=Y_LED4 NewDesignator=Y_LED2
+Change Component Designator: OldDesignator=Y_LED6 NewDesignator=Y_LED3
+Change Component Designator: OldDesignator=Y_LED7 NewDesignator=Y_LED4
+Added Component: Designator=P_R6(RES-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=P_R8(RES-SMD-0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_LED_B Pin=P_R6-1
+Change Net Name : Old Net Name=NetD6_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetG_LED2_1 New Net Name=NetG_LED1_1
+Change Net Name : Old Net Name=V_LED_B New Net Name=NetH_R6_2
+Added Pin To Net: NetName=NetG_LED3_1 Pin=G_LED3-1
+Added Pin To Net: NetName=NetG_LED3_1 Pin=G_LED4-1
+Added Pin To Net: NetName=NetG_LED3_1 Pin=H_R8-2
+Added Pin To Net: NetName=NetG_LED3_1 Pin=P_R8-1
+Added Net: Name=NetG_LED3_1
+Added Pin To Net: NetName=V_LED_B Pin=P_R5-1
+Added Pin To Net: NetName=V_LED_B Pin=P_R6-2
+Added Pin To Net: NetName=V_LED_B Pin=P_R7-1
+Added Pin To Net: NetName=V_LED_B Pin=P_R8-2
+Added Net: Name=V_LED_B
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R7 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R8 Res1
+Added Rule: Name=Schematic Differential Pairs Routing_4
+Added Rule: Name=Schematic Differential Pairs Routing_5

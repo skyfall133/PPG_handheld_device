@@ -1,0 +1,9 @@
+Added Member To Class: ClassName=PPG_sensor Member=Component D7 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D9 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component D11 SFH_2704
+Added Member To Class: ClassName=PPG_sensor Member=Component G_LED4 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component P_R6 Res1
+Added Member To Class: ClassName=PPG_sensor Member=Component R_LED2 LED
+Added Member To Class: ClassName=PPG_sensor Member=Component Y_LED2 LED
+Added Rule: Name=Schematic Differential Pairs Routing_2
+Added Rule: Name=Schematic Differential Pairs Routing_3
