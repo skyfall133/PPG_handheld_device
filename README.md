@@ -11,7 +11,7 @@ The main logic and power management board.
 - **Microcontroller**: ESP32 (Wi-Fi/Bluetooth enabled MCU)
 - **Key Schematics**: 
   - `ESP32.SchDoc`: Microcontroller and IO setup.
-  - `DRIVER_LED&AFE.SchDoc`: AFE and LED current control.
+  - `DRIVER_LED&AFE.SchDoc`: AFE4490 and LED current control.
   - `POWER_SUPPLY.SchDoc`: Voltage regulation.
 - **PCB Layout**: `PPG_board.PcbDoc`
 - **Project File**: `PPG_process_v2.PrjPcb`
