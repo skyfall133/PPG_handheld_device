@@ -28,8 +28,8 @@ The optical interface module.
 
 ### 3D View of Processing Board
 ![3D View of Processing Board](images/3D_view_PCB.JPG)
-![3D View Alternative 1](images/3D_view_PCB_2.JPG)
 ![3D View Alternative 2](images/3D_view_PCB_3.JPG)
+![3D View Alternative 3](images/3D_real_view.JPG)
 
 ### Key Schematics (Processing Board)
 #### ESP32 Microcontroller
