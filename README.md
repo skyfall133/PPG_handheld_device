@@ -25,9 +25,21 @@ The optical interface module.
 - **EDA Tool**: Altium Designer
 
 ## Visuals
-> - A 3D view screenshot of the PCB_processing and PPG_sensor:
-<img width="1257" height="746" alt="image" src="https://github.com/user-attachments/assets/e926dd8d-e196-4c8b-9b27-7a7c6c885f2c" />
-<img width="1081" height="744" alt="image" src="https://github.com/user-attachments/assets/10f4f6cb-022e-4b3e-893c-e012070cb70d" />
+
+### 3D View of Processing Board
+![3D View of Processing Board](images/3D_view_PCB.JPG)
+![3D View Alternative 1](images/3D_view_PCB_2.JPG)
+![3D View Alternative 2](images/3D_view_PCB_3.JPG)
+
+### Key Schematics (Processing Board)
+#### ESP32 Microcontroller
+![ESP32 Schematic](images/ESP32_sch.JPG)
+
+#### Analog Front End (AFE4490)
+![Analog Front End Schematic](images/analog_font_end_sch.JPG)
+
+#### Power Management
+![Power Supply Schematic](images/power_supply_sch.JPG)
 
 
 ## How to Use
