@@ -48,6 +48,3 @@ The optical interface module.
    - `PPG_processing/PPG_process_v2.PrjPcb` for the main board.
    - `PPG_sensor/PPG_sensor.PrjPcb` for the sensor board.
 3. Use Altium Designer to view/edit.
-
-## License
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
